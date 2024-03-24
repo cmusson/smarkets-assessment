@@ -51,4 +51,4 @@ You should not spend more than 6 hours on this exercise
   - I kept it to 4 for simplicity, and to not make to scope too large for the required task. Having said that, the logic within tha app would make adding more sports and their events very easy/simple
 - Another next step I would love to add is different filtering options, from live, upcoming and finished, to sport, teams, leagues etc, however this seemed outside the scope of this assessment
 
-## I hope this ansers all questions, please let me know if you have any additional questions and I look forward to hearing back.
+I hope this ansers all questions, please let me know if you have any additional questions and I look forward to hearing back.
